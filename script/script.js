@@ -1,7 +1,7 @@
 'use strict';
 let postsData;
 
-//# ------------------------------ API ENDPOINTS ----------------------------- */
+//# ------------------------------ API ENDPOINTS ----------------------------- * /
 const _ALLPOSTS =
   'https://linkbackendposts-production.up.railway.app/link/getAllposts';
 const _CREATEPOST =
